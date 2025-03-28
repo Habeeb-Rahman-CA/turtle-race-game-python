@@ -65,3 +65,4 @@ print(f"Winner is {winner}!")
 # Checking again in git-cola
 # Testing GitKraken
 # Creating branch and pushing...
+# Creating conflict and resolve

@@ -66,7 +66,11 @@ print(f"Winner is {winner}!")
 # Testing GitKraken
 # Creating branch and pushing...
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # Creating conflict and resolve
+=======
+# Stashing changes and push
+>>>>>>> Stashed changes
 =======
 # Stashing changes and push
 >>>>>>> Stashed changes

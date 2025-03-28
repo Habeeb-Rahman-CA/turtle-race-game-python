@@ -65,3 +65,8 @@ print(f"Winner is {winner}!")
 # Checking again in git-cola
 # Testing GitKraken
 # Creating branch and pushing...
+<<<<<<< Updated upstream
+# Creating conflict and resolve
+=======
+# Stashing changes and push
+>>>>>>> Stashed changes
